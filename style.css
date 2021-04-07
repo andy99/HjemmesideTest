@@ -1,22 +1,43 @@
 h1
  { text-align: center;
-   color: red;
+   color: black;
+  /* background-image: url("Kultbilde.jpg"); */
+  background-image: url("img/Gunnar2.jpg");
+  background-position: bottom;
 }
-body{background-color:#012634;
+h2
+{text-align: center;
 }
-p {
+body
+{
+ /* background-image: url("Kultbilde.jpg"); */
+ background-color: transparent;}
+ /* {background-color: powderblue;} */
+}
+.Kontakt
+{text-align: : center;}
+
+/* p {
   text-align: center;
   color: blu;
-}
+} */
 .Bilde
-{ width: 200px;
+{ width: 100px;
+  height: 100px;
 border-radius: 50%;
 border-color: grey;
 border-width: 4px;
 border-style: solid;
 display: block;
 margin-left: auto;
-margin-right: auto; }
+margin-right: auto;
+margin-top: top;}
+
+.Kultbilde
+{ width: 500px;
+  height: 300px;
+align: center;
+}
 
 .sitat
 {font-weight: bold;

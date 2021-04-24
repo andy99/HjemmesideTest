@@ -2,7 +2,7 @@ h1
  { text-align: center;
    color: black;
   /* background-image: url("Kultbilde.jpg"); */
-  background-image: url("img/Gunnar2.jpg");
+  /* background-image: url("img/Gunnar2.jpg"); */
   background-position: bottom;
 }
 h2
@@ -11,7 +11,7 @@ h2
 body
 {
  /* background-image: url("Kultbilde.jpg"); */
- background-color: transparent;}
+ background-color: powderblue;}
  /* {background-color: powderblue;} */
 }
 .Kontakt

@@ -11,12 +11,20 @@ h2
 body
 {
  /* background-image: url("Kultbilde.jpg"); */
- margin-top: 10px;
+ margin-top: 2px;
  margin-bottom: 100px;
  margin-right: 150px;
  margin-left: 80px;
+ position: relative;
+ font-size: 16px;
  background-color: powderblue;}
  /* {background-color: powderblue;} */
+
+ .Firma
+ {text-align: : center;}
+}
+.kompetanse
+{text-align: : center;}
 }
 .Kontakt
 {text-align: : center;}
@@ -29,7 +37,6 @@ p {
 .Bilde
 { width: 100px;
   height: 100px;
-  align: "left";
 /* border-radius: 50%;
 border-color: grey;
 border-width: 4px;
